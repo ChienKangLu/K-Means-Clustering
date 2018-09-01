@@ -1,6 +1,10 @@
 # K-Means-Clustering
 k means is an algorithm used to cluster data into k clusters.
 
+## Develop tools and techniques
++ Python
++ Pycharm
+
 ## Step
 1. Initial k clusters
 2. Compute their mean (centroid)
